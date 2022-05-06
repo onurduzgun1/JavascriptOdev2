@@ -17,9 +17,3 @@
 
 <img src= "./img/todolist2.png">
 
-<br><br>
-
-
-### Part 3
-
-<img src= "./img/todolist3.png">
